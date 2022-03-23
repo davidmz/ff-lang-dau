@@ -1,0 +1,20 @@
+{
+  "name": "ff-lang-dau",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Mzareulyan",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cld": "~2.7.1",
+    "postgres": "~3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.17.8",
+    "@babel/eslint-parser": "~7.17.0",
+    "eslint": "~8.11.0",
+    "eslint-config-prettier": "~8.5.0",
+    "eslint-plugin-prettier": "~4.0.0",
+    "prettier": "~2.6.0"
+  }
+}
